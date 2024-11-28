@@ -1,15 +1,13 @@
 # Lambda Event Handler
 
-This is the Lambda event handler which is used to check if new employee file(s) are uploaded to S3 bucket on a scheduled time daily. 
-If new file(s) are detected, AWS batch job will be triggered to process the files provided.
+This is the Lambda event handler, which checks whether new employee file(s) are uploaded to the S3 bucket at a scheduled time daily. 
+If new file(s) are detected, an AWS batch job will be triggered to process the provided files.
 
 ## More Information
 
-This is a sub-project of the Employee Import Project: https://github.com/Annielz1223/HRImport/. 
-You could get more information from this main project if needed.
+See [Employee Import Repository](https://github.com/Annielz1223/HRImport) for more details.
 
 ## Dependency
-
 - Java 17
 - AWS S3
 - AWS Lambda
