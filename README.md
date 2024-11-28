@@ -5,7 +5,7 @@ If new file(s) are detected, an AWS batch job will be triggered to process the p
 
 ## More Information
 
-See [Employee Import Repository](https://github.com/Annielz1223/HRImport) for more details.
+See [Employee Import Repository](https://github.com/JamesLiVeeva/EmployeeImport) for more details.
 
 ## Dependency
 - Java 17
